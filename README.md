@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
+</p>
+
 # News Manager
 
 **News Manager** é um backend desenvolvido com **NestJS** para gerenciar notícias e fornecer recomendações personalizadas aos usuários. Este projeto aplica princípios de **Clean Architecture**, **SOLID** e **TDD** para garantir uma estrutura robusta, escalável e fácil de manter.
